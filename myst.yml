@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 7204695b-7485-4989-863c-16cf6e4db155
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/TUD-SEEd/template # Change this URL to your GitHub repository
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: Figuren/favicon.ico
+    logo: Figuren/site_logo.png
