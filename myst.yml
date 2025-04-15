@@ -6,11 +6,15 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/TUD-SEEd/template # Change this URL to your GitHub repository
+  github: https://github.com/cocoquantico/doorstroommodule # Change this URL to your GitHub repository
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc: 
+
 site:
   template: book-theme
   options:
     favicon: Figuren/favicon.ico
     logo: Figuren/site_logo.png
+    actions: 
+      - title: report issue
+        url: https://github.com/cocoquantico/doorstroommodule/issues
