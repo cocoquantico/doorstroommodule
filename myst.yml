@@ -8,6 +8,7 @@ project:
   # authors: []
   github: https://github.com/TUD-SEEd/template # Change this URL to your GitHub repository
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc: 
 site:
   template: book-theme
   options:
