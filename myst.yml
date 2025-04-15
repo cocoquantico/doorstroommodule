@@ -15,6 +15,6 @@ site:
   options:
     favicon: Figuren/favicon.ico
     logo: Figuren/site_logo.png
-    actions: 
-      - title: report issue
-        url: https://github.com/cocoquantico/doorstroommodule/issues
+  actions: 
+    - title: report issue
+      url: https://github.com/cocoquantico/doorstroommodule/issues
