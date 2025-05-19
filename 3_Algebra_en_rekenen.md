@@ -2,6 +2,9 @@
 kernelspec:
   name: python3
   display_name: 'Python 3'
+numbering:
+  headings:
+    enabled: true 
 ---
 
 # Blok 1 Algebra en rekenen
