@@ -36,3 +36,9 @@ def check_antwoord(change):
 vraag.observe(check_antwoord, names='value')
 display(vraag, uitvoer)
 ```
+
+## Section 1? 
+
+hier tekst
+
+## Section 2?
