@@ -1,7 +1,9 @@
 # Blok 1 Algebra en rekenen
-::: objective
+```{admonition} Leerdoel
+:class: tip
 In dit blok gaan we rekenen met breuken en letters. Als je straks in de 11e zit, ga je merken dat je dit bij veel onderwerpen moet toepassen.
-:::
+
+```html
 <p>Wat is 6 × 7?</p>
 <input type="text" id="antwoord">
 <button onclick="checkAntwoord()">Check</button>
